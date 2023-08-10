@@ -1,5 +1,5 @@
 # Salman Alfarisi | Portofolio
-![My Portfolio](https://i.ibb.co/Lt9Vthh/mobile.png)
+![My Portfolio](https://i.ibb.co/QNYyNjj/mobile.png)
 
 ## Introduction
 The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
